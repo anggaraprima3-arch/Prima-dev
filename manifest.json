@@ -1,0 +1,17 @@
+{
+  "name": "prima.dev AI HRIS",
+  "short_name": "prima.dev",
+  "start_url": "prima-dev-ultimate-v8.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#6366f1",
+  "description": "Next-Gen AI HRIS & Payroll System",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9159/9159105.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
